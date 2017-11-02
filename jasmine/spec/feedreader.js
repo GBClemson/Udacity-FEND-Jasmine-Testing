@@ -122,13 +122,11 @@ $(function() {
                 // load the first available feed
                 loadFeed(0, function() {
                     thisFeed = $('.feed').html();
-                    //console.log('thisFeed is: '+thisFeed);
                     done();              
                 });
                 // load the second available feed
                 loadFeed(1, function() {
                     thatFeed = $('.feed').html();
-                    //console.log('thatFeed is: '+thatFeed);
                     done();                
                 });
             }, 10);
