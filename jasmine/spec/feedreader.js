@@ -97,7 +97,6 @@ $(function() {
                 // load the first available feed
                 loadFeed(0, function() {
                     feedHTML = $('.feed').html();
-                    console.log('feedHTML is: '+feedHTML);
                     done();              
                 });
             }, 10);
