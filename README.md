@@ -3,7 +3,7 @@ Feed Reader testing using Jasmine for a web app. For this project, we were provi
 
 #### To run the app ####
 * You must clone or download all of the files from this repository.
-* You can inspect the tests in /jasmine/spec/feedreader.js
-* Once you have all of the files you can launch index.html to see the live feedreader
+* You can inspect the tests in `/jasmine/spec/feedreader.js`
+* Once you have all of the files you can launch `index.html` to see the live feedreader
 
 #### To see the live version, click [here](https://gbclemson.github.io/Udacity-FEND-Jasmine-Testing/) ####
